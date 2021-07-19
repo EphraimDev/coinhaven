@@ -14,5 +14,5 @@
 ## Routes
 | Endpoint | HTTP |	Body Request | Info |
 |----------|------|--------------|------|
-| /	| GET	|	Check API is up |
+| /	| GET	|	| Check API is up |
 | /api/signup |	POST |	email, name, password	| Create new account |
